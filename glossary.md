@@ -18,4 +18,5 @@ ASIC: application-specific integrated circuit. A microchip designed specifically
 
 GPU: graphics processing unit. a special stream processor used in computer graphics hardware.
 
-BFT: Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of (or one or more faults within) some of its components
+BFT: Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of \(or one or more faults within\) some of its components
+

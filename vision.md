@@ -1,6 +1,5 @@
 ---
-description: >-
-  This page describes the vision of EtherCore
+description: This page describes the vision of EtherCore
 ---
 
 # EtherCore Vision
@@ -15,7 +14,7 @@ Blockchain is being adopted by various industries. For example, Blockchain has t
 
 Like these solutions, EtherCore aims to be a powerful Blockchain platform that can deliver valuable insights that will be licensed as technology support. Decentralized applications deployed to multi-chain scalable solution can scale to the demands of the users of DApp. DApp is composed of smart contract and multiple public transactions that are made from users of DApp. There are floods of transactions over Blockchain platforms and current public Blockchain networks lack capacity to handle those traffics. Recent research explains that Ethereum network could be scaled over by implementing sharding in the future.
 
-Scalable databases are sometimes consists of a horizontal partition of data which is called database sharding. Each separate block of data is held on a separate database server instances to spread load of network capacity to horizontally scale the database. Where distributed computing is used to separate load between multiple servers (either for performance or reliability reasons), sharding approach may also be useful. However, sharding requires some technical complexity on database so it requires to be handled carefully by trained database engineers. EtherCore fulfills the requirement of sharding solution and it can be utilized via using Blockchain architecture.
+Scalable databases are sometimes consists of a horizontal partition of data which is called database sharding. Each separate block of data is held on a separate database server instances to spread load of network capacity to horizontally scale the database. Where distributed computing is used to separate load between multiple servers \(either for performance or reliability reasons\), sharding approach may also be useful. However, sharding requires some technical complexity on database so it requires to be handled carefully by trained database engineers. EtherCore fulfills the requirement of sharding solution and it can be utilized via using Blockchain architecture.
 
 Not to only mention about scalability, security is also crucial for Blockchain platforms. Digital payments like PayPal or simple payment solutions are very convenient, however, they are vulnerable for hacking attempts and some serious threats like denial-of-service attacks. To become and serve as a digital payment solution, these measurements for network security are important. That’s why most of the Blockchain platforms like EOS and Ethereum is implementing secure consensus algorithm like Istanbul Byzantine Fault Tolerance consensus.
 
@@ -27,5 +26,5 @@ Currently 1.7 billion people on the globe are not able to receive any banking se
 
 When it comes to DeFi, EtherCore is designed with lessons of original Ethereum platform, which used to provide DeFi solutions like Bancor network or Dai stable coin. EtherCore has listened to what DApp and DeFi developers want, and that’s why we’ve improved speed and latency at the greater limit. Every existing exchanges have rate limits on their API and it is a well-known bottleneck for DeFi service providers when it comes to collecting various datas from them. In addition to providing an advanced data analysis service, EtherCore could be a stable backbone for them, since EtherCore can scale horizontally, almost infinite requests can be handled over EtherCore node.
 
-
 From inception, DeFi and DApp markets will be supported by EtherCore nodes and various infrastructure built by EtherCore developers. A secure, fast, and cost-effective web3 interface will facilitate DApp users and builders. Transactions and various contracts can be deployed at low cost. Compared with other DApp solutions and platforms, we will provide competitive database solution with enhanced security coming from highly decentralized and transparent network. Every protocol upgrades can be conducted without a single delay. Mission-critical Blockchain applications including nodes and miners will definitely support your Blockchain business and users using your innovative product.
+
