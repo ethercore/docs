@@ -8,10 +8,9 @@
 * [Composing EtherCore](ethercore/README.md)
   * [Specification of ProgPoW](ethercore/specification-of-progpow.md)
   * [Zero transaction fee smart contract platform](ethercore/zero-transaction-fee-smart-contract-platform.md)
-* [Governance Model](governance/README.md)
+* [Governance Model](governance-model.md)
 * [Token Model](token.md)
 * [Roadmap](roadmap.md)
 * [Glossary](glossary.md)
-* [Terms of Use](terms/README.md)
-* [Reference](reference/README.md)
-
+* [Terms of Use](terms-of-use.md)
+* [Reference](reference.md)
