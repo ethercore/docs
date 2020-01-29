@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page describes the vision of EtherCore, about why we should use EtherCore platform, etc.
+  This page describes the vision of EtherCore
 ---
 
 # EtherCore Vision

@@ -5,7 +5,7 @@ description: >-
 
 # Welcome to EtherCore
 
-EtherCoreDocs introduces and explains [EtherCore](https://ethercore.com), a multi-chain decentralized application and smart contracts platform that hosts various applications that can be used in real world. In the following documents, we describe what EtherCore is and provide guidelines and instructions on how to use EtherCore as well as how to interact with the EtherCore network. To better understand EtherCore's vision, mission, and future plans briefly, please read the [EtherCore White Paper](./whitepaper/new-ethercore-whitepaper-v1.8.1.pdf)
+EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a multi-chain decentralized application and smart contracts platform that hosts various applications that can be used in real world. In the following documents, we describe what EtherCore is and provide guidelines and instructions on how to use EtherCore as well as how to interact with the EtherCore network. To better understand EtherCore's vision, mission, and future plans briefly, please read the [EtherCore White Paper](./whitepaper/new-ethercore-whitepaper-v1.8.1.pdf)
 
 ![EtherCore Block Explorer](./images/blockscout.png)
 
