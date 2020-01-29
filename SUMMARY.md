@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to EtherCore](README.md)
-* [EtherCore Vision](vision.md)
+* [EtherCore Vision](ethercore-vision.md)
 * [Performance Overview](overview/README.md)
   * [Scalability Challenges](overview/scalability-challenges.md)
   * [Security Challenges](overview/security-challenges.md)
@@ -9,7 +9,7 @@
   * [Specification of ProgPoW](ethercore/specification-of-progpow.md)
   * [Zero transaction fee smart contract platform](ethercore/zero-transaction-fee-smart-contract-platform.md)
 * [Governance Model](governance-model.md)
-* [Token Model](token.md)
+* [Token Model](token-model.md)
 * [Roadmap](roadmap.md)
 * [Glossary](glossary.md)
 * [Terms of Use](terms-of-use.md)
