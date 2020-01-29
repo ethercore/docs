@@ -112,6 +112,7 @@ ProgPoW has the following parameters for its design, The proposed settings have 
 Following is the suggest parameter values for implementation.
 
 | Parameter	| ProgPoW |
+|------|------|
 | PROGPOW_PERIOD | 50 |
 | PROGPOW_LANES	| 16 |
 | PROGPOW_REGS | 32 |
@@ -124,6 +125,7 @@ Following is the suggest parameter values for implementation.
 To achieve more performance and to give more competitive advantage of performance per watt to AMD graphic cards compared with Nvidia graphic cards, following parameter values were proposed instead and it is likely to be used for unique value for EtherCore mainnet.
 
 | Parameter	| ProgPoW |
+|------|------|
 | PROGPOW_PERIOD | 10 |
 | PROGPOW_LANES | 16 |
 | PROGPOW_REGS | 32 |
