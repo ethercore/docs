@@ -11,6 +11,7 @@
 * [Governance Model](governance-model.md)
 * [Token Model](token-model.md)
 * [Roadmap](roadmap.md)
+* [FAQ](faq.md)
 * [Glossary](glossary.md)
 * [Terms of Use](terms-of-use.md)
 * [Reference](reference.md)
