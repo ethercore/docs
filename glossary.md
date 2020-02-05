@@ -48,7 +48,7 @@
 
 - Proof-of-Work, a consensus mechanism that is used to deters denial of service attacks and other service abuses such as spam on a network.
 
-##### ProgPOW
+##### ProgPoW
 
  - ProgPoW represents an ASIC resistant, GPU friendly programmatic Proof-of-Work mining consensus algorithm.
 
