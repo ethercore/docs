@@ -1,22 +1,55 @@
-# Glossary
+# Glossary of Terms
 
-Smart Contract: a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.
+## A
 
-DApp: Decentralized applications, a computer application that runs on a distributed computing system.
+##### API
 
-PoW: Proof-of-Work, a consensus mechanism that is used to deters denial of service attacks and other service abuses such as spam on a network.
+- application programming interface.
 
-PoA: Proof-of-Authority, a consensus mechanism that is similar to Proof-of-Work, but doesn't requires additional work information from nodes.
+##### ASIC
 
-Hashing: using a mathematical function to derive a fixed length numeric or alphanumeric string from a piece of data of any length.
+- application-specific integrated circuit. A microchip designed specifically for cryptocurrency mining.
 
-Hashrate: a hashrate is the speed at which a computer can solve a hashing problem. The probability of a miner successfully mining a block before anyone else is partially determined by the hashrate of their mining operations.
+## B
 
-API: application programming interface.
+##### BFT
 
-ASIC: application-specific integrated circuit. A microchip designed specifically for cryptocurrency mining.
+- Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of \(or one or more faults within\) some of its components
 
-GPU: graphics processing unit. a special stream processor used in computer graphics hardware.
+## D
 
-BFT: Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of \(or one or more faults within\) some of its components
+##### DApp
 
+- Decentralized applications, a computer application that runs on a distributed computing system.
+
+## G
+
+##### GPU
+
+- graphics processing unit. a special stream processor used in computer graphics hardware.
+
+## H
+
+##### Hashing
+
+- using a mathematical function to derive a fixed length numeric or alphanumeric string from a piece of data of any length.
+
+##### Hashrate
+
+- a hashrate is the speed at which a computer can solve a hashing problem. The probability of a miner successfully mining a block before anyone else is partially determined by the hashrate of their mining operations.
+
+## P
+
+##### PoA
+
+- Proof-of-Authority, a consensus mechanism that is similar to Proof-of-Work, but doesn't requires additional work information from nodes.
+
+##### PoW
+
+- Proof-of-Work, a consensus mechanism that is used to deters denial of service attacks and other service abuses such as spam on a network.
+
+## S
+
+##### Smart Contract
+
+- a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.
