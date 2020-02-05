@@ -80,7 +80,7 @@ With the help of ProgPoW consensus algorithm EtherCore is considered as an ASIC 
 
 ## What is the block time?
 
-EtherCore mainnet block time is ~ 15 seconds and for sidechain implementation 1 second.
+EtherCore mainnet block time is ~ 14 seconds and for sidechain implementation 1 second.
 
 ## I have a mining pool. How do I get featured on your website?
 
