@@ -11,7 +11,6 @@ EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a mult
 
 **Disclaimer:** Some notes are derived from Ethereum documents as the EtherCore source code was initiated from Ethereum’s Istanbul version. As EtherCore develops further, EtherCoreDocs and the source code will continue to be updated. Reference websites are as follows:
 
-+ http://www.ethdocs.org/en/latest/
 + https://github.com/ethereum/go-ethereum/wiki
 + https://truffleframework.com/docs
 + https://web3js.readthedocs.io/en/1.0/
@@ -22,7 +21,7 @@ EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a mult
 
 ## Whitepaper
 
-[Whitepaper](./whitepaper/new-ethercore-whitepaper-v1.8.1.pdf)
+[Whitepaper](./whitepaper/EtherCore-Whitepaper.pdf)
 
 ## Manual
 
