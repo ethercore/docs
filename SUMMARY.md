@@ -15,3 +15,4 @@
 * [Glossary](glossary.md)
 * [Terms of Use](terms-of-use.md)
 * [Reference](reference.md)
+* [BI / CI](bi.md)
