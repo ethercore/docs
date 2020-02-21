@@ -14,7 +14,7 @@
 
 ## Testnet Resources
 
-[![Alt text](./images/youtube.png)](https://www.youtube.com/watch?v=gwTyWiFLo2k)
+[![Alt text](.gitbook/assets/youtube.png)](https://www.youtube.com/watch?v=gwTyWiFLo2k)
 
 [Status Dashboard](http://testnet-stats.ethercore.org)
 
@@ -27,3 +27,4 @@
 [Faucet](https://testnet-faucet.ethercore.org)
 
 [Public RPC Endpoint](https://testnet-rpc.ethercore.org)
+

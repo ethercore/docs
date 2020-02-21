@@ -9,3 +9,4 @@ By supporting zero fee transactions it will not only benefit the platform itself
 Enabling foreign tokens and DApps to interact with our mainnet will be a chance to enlarge the EtherCore ecosystem and give them an ability to use the full advantage of Blockchain platform at zero cost.
 
 While it is possible for an attacker to deploy multiple zero fee transactions to spam over the network, a proper limitation will be able to block the attempt of spamming over network and properly provide lower cost transactions to users. Limitation of block capacity determined by the miners of block and limitation of transaction pool size, in other words mempool or txpool, will be able to limit the capacity of spamming the network and protect against those improper attempts.
+
