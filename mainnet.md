@@ -12,9 +12,9 @@
 
 [Public RPC Endpoint](https://rpc.ethercore.org)
 
-## Testnet Resources
+## Testnet Resource
 
-[![Alt text](.gitbook/assets/youtube.png)](https://www.youtube.com/watch?v=gwTyWiFLo2k)
+{% embed url="https://www.youtube.com/watch?v=gwTyWiFLo2k" %}
 
 [Status Dashboard](http://testnet-stats.ethercore.org)
 
