@@ -14,6 +14,8 @@
 
 ## Testnet Resources
 
+[![Alt text](./images/youtube.png)](https://www.youtube.com/watch?v=gwTyWiFLo2k)
+
 [Status Dashboard](http://testnet-stats.ethercore.org)
 
 [Block Explorer](https://testnet-explorer.ethercore.org)
