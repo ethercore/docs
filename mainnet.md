@@ -32,7 +32,7 @@
 
 [Wallet](https://wallet.ethercore.io/?network=ethercore_testnet)
 
-[Faucet](https://faucet.ethercore.io)
+[Faucet](https://testnet-faucet.ethercore.io)
 
 [Public RPC Endpoint](https://testnet-rpc.ethercore.io)
 
