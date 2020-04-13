@@ -1,59 +1,60 @@
-# Glossary of Terms
+# Glossary
 
 ## A
 
-##### API
+### API
 
-- application programming interface.
+* application programming interface.
 
-##### ASIC
+### ASIC
 
-- application-specific integrated circuit. A microchip designed specifically for cryptocurrency mining.
+* application-specific integrated circuit. A microchip designed specifically for cryptocurrency mining.
 
 ## B
 
-##### BFT
+### BFT
 
-- Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of \(or one or more faults within\) some of its components
+* Byzantine Fault tolerance, a property that enables a system to continue operating properly in the event of the failure of \(or one or more faults within\) some of its components
 
 ## D
 
-##### DApp
+### DApp
 
-- Decentralized applications, a computer application that runs on a distributed computing system.
+* Decentralized applications, a computer application that runs on a distributed computing system.
 
 ## G
 
-##### GPU
+### GPU
 
-- graphics processing unit. a special stream processor used in computer graphics hardware.
+* graphics processing unit. a special stream processor used in computer graphics hardware.
 
 ## H
 
-##### Hashing
+### Hashing
 
-- using a mathematical function to derive a fixed length numeric or alphanumeric string from a piece of data of any length.
+* using a mathematical function to derive a fixed length numeric or alphanumeric string from a piece of data of any length.
 
-##### Hashrate
+### Hashrate
 
-- a hashrate is the speed at which a computer can solve a hashing problem. The probability of a miner successfully mining a block before anyone else is partially determined by the hashrate of their mining operations.
+* a hashrate is the speed at which a computer can solve a hashing problem. The probability of a miner successfully mining a block before anyone else is partially determined by the hashrate of their mining operations.
 
 ## P
 
-##### PoA
+### PoA
 
-- Proof-of-Authority, a consensus mechanism that is similar to Proof-of-Work, but doesn't requires additional work information from nodes.
+* Proof-of-Authority, a consensus mechanism that is similar to Proof-of-Work, but doesn't requires additional work information from nodes.
 
-##### PoW
+### PoW
 
-- Proof-of-Work, a consensus mechanism that is used to deters denial of service attacks and other service abuses such as spam on a network.
+* Proof-of-Work, a consensus mechanism that is used to deters denial of service attacks and other service abuses such as spam on a network.
 
-##### ProgPoW
+### ProgPoW
 
- - ProgPoW represents an ASIC resistant, GPU friendly programmatic Proof-of-Work mining consensus algorithm.
+* ProgPoW represents an ASIC resistant, GPU friendly programmatic Proof-of-Work mining consensus algorithm.
 
 ## S
 
-##### Smart Contract
+### Smart Contract
 
-- a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.
+* a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.
+
