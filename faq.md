@@ -39,7 +39,7 @@ Yes. EtherCore supports Solidity as a smart contract language. [ERC-20](https://
 
 ## Can I use Truffle for the smart contract development on EtherCore?
 
-Yes. Truffle can be used in developing smart contracts on EtherCore with the node running on local or using our public remote node endpoint [https://rpc.ethercore.org](https://rpc.ethercore.org).
+Yes. Truffle can be used in developing smart contracts on EtherCore with the node running on local or using our public remote node endpoint [https://rpc.ethercore.io](https://rpc.ethercore.io).
 
 ## What is a port of EtherCore node?
 
@@ -78,5 +78,5 @@ EtherCore mainnet block time is ~ 14 seconds and for sidechain implementation 1 
 
 ## I have a mining pool. How do I get featured on your website?
 
-Please contact us via our official email address [info@ethercore.org](mailto:info@ethercore.org) or our discord / telegram community to get your pool featured on our website.
+Please contact us via our official email address [info@ethercore.io](mailto:info@ethercore.io) or our discord / telegram community to get your pool featured on our website.
 
