@@ -78,5 +78,5 @@ EtherCore mainnet block time is ~ 14 seconds and for sidechain implementation 1 
 
 ## I have a mining pool. How do I get featured on your website?
 
-Please contact us via our official email address [info@ethercore.io](mailto:info@ethercore.io) or our discord / telegram community to get your pool featured on our website.
+Please contact us via our official email address [bd@ethercore.io](mailto:bd@ethercore.io) or our discord / telegram community to get your pool featured on our website.
 
