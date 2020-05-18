@@ -26,19 +26,19 @@ EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a mult
 
 ## Manual
 
-[How to run EtherCore Node](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/EtherCore-Node-Manual.pdf)
+[How to run EtherCore Node](https://github.com/ethercore/docs/blob/master/manual/EtherCore-Node-Manual.pdf)
 
-[How to use EtherCore Testnet](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-use-EtherCore-Testnet.pdf)
+[How to use EtherCore Testnet](https://github.com/ethercore/docs/blob/master/manual/How-to-use-EtherCore-Testnet.pdf)
 
-[How to connect EtherCore mainnet with Metamask](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-connect-EtherCore-mainnet-with-Metamask.pdf)
+[How to connect EtherCore mainnet with Metamask](https://github.com/ethercore/docs/blob/master/manual/How-to-connect-EtherCore-mainnet-with-Metamask.pdf)
 
-[How to generate EtherCore Wallet and obtain EtherCore wallet address](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-generate-EtherCore-Wallet-and-obtain-EtherCore-wallet-address.pdf)
+[How to generate EtherCore Wallet and obtain EtherCore wallet address](https://github.com/ethercore/docs/blob/master/manual/How-to-generate-EtherCore-Wallet-and-obtain-EtherCore-wallet-address.pdf)
 
-[How to lockup EtherCore coins](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-lockup-EtherCore-coins.pdf)
+[How to lockup EtherCore coins](https://github.com/ethercore/docs/blob/master/manual/How-to-lockup-EtherCore-coins.pdf)
 
-[How to mine EtherCore with your own GPU](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-mine-EtherCore-with-your-own-GPU.pdf)
+[How to mine EtherCore with your own GPU](https://github.com/ethercore/docs/blob/master/manual/How-to-mine-EtherCore-with-your-own-GPU.pdf)
 
 [How to send EtherCore coins from EtherCore Web Wallet](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-send-EtherCore-coins-from-EtherCore-Web-Wallet.pdf)
 
-[How to develop ERC20 token on EtherCore mainnet](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-develop-ERC20-token-on-EtherCore-mainnet.pdf)
+[How to develop ERC20 token on EtherCore mainnet](https://github.com/ethercore/docs/blob/master/manual/How-to-develop-ERC20-token-on-EtherCore-mainnet.pdf)
 
