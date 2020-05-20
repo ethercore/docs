@@ -34,8 +34,6 @@ EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a mult
 
 [How to generate EtherCore Wallet and obtain EtherCore wallet address](https://github.com/ethercore/docs/blob/master/manual/How-to-generate-EtherCore-Wallet-and-obtain-EtherCore-wallet-address.pdf)
 
-[How to lockup EtherCore coins](https://github.com/ethercore/docs/blob/master/manual/How-to-lockup-EtherCore-coins.pdf)
-
 [How to mine EtherCore with your own GPU](https://github.com/ethercore/docs/blob/master/manual/How-to-mine-EtherCore-with-your-own-GPU.pdf)
 
 [How to send EtherCore coins from EtherCore Web Wallet](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/manual/How-to-send-EtherCore-coins-from-EtherCore-Web-Wallet.pdf)
