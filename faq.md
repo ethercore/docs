@@ -18,7 +18,7 @@ In order to claim EtherCore, the funds have to be on the supported wallets or ex
 
 EtherCore mainnet is supported by several wallets:
 
-* [EtherCore Wallet](https://wallet.ethercore.org): The native web-based wallet of EtherCore
+* [EtherCore Wallet](https://wallet.ethercore.io): The native web-based wallet of EtherCore
 * [MyEtherWallet](https://myetherwallet.com): A free, client-side open-source web-based wallet for Ethereum-like blockchains
 * [MyCrypto](https://mycrypto.com): Web, Windows, OSX and Linux app wallet
 * [Trezor](https://trezor.io): Hardware based cryptocurrency wallet for storing coins

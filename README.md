@@ -8,7 +8,7 @@ description: >-
 
 EtherCoreDocs introduces and explains [EtherCore](https://ethercore.org), a multi-chain decentralized application and smart contracts platform that hosts various applications that can be used in real world. In the following documents, we describe what EtherCore is and provide guidelines and instructions on how to use EtherCore as well as how to interact with the EtherCore network. To better understand EtherCore's vision, mission, and future plans briefly, please read the [EtherCore White Paper](https://github.com/ethercore/docs/tree/6f35a0613efe786ca8df8811da1895f8d47d4c27/whitepaper/EtherCore-Whitepaper.pdf)
 
-![EtherCore Block Explorer](.gitbook/assets/blockscout.png)
+![EtherCore Block Explorer](.gitbook/assets/ethercore-explorer.png)
 
 **Disclaimer:** Some notes are derived from Ethereum documents as the EtherCore source code was initiated from Ethereum’s Istanbul version. As EtherCore develops further, EtherCoreDocs and the source code will continue to be updated. Reference websites are as follows:
 
